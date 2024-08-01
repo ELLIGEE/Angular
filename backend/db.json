@@ -1,0 +1,28 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "A vida é um caos aleatório,ordenada pelo tempo.",
+      "autoria": "Robs",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 2,
+      "conteudo": "Todavia, a valorização de fatores subjetivos exige a precisão e a definição dos níveis de motivação departamental.",
+      "autoria": "Mikis",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 3,
+      "conteudo": "É importante questionar",
+      "autoria": "Noami",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 4,
+      "conteudo": "Pensando mais a longo prazo, o comprometimento entre as equipes estimula a padronização do processo de comunicação como um todo",
+      "autoria": "Fayno",
+      "modelo": "modelo2"
+    }
+  ]
+}
